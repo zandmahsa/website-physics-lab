@@ -1,0 +1,120 @@
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+    #main {
+        width: 100%;
+        margin-top: 0;
+    }
+    .masthead,
+    .main_masthead {
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+    .main_masthead>ul>li {
+        width: 100%;
+        display: block;
+        text-align: center;
+    }
+    .search {
+        margin: 0;
+        width: 97%;
+    }
+    .search input {
+        width: 97%;
+        padding-left: 0;
+    }
+    #header-nav ul {
+        margin: 40px 70px;
+    }
+    #header-nav ul li {
+        margin-left: 15px;
+    }
+    .main-footer {
+        width: 100%;
+    }
+    .about,
+    .links,
+    .wv {
+        width: 100%;
+        height: auto;
+    }
+    .about {
+        padding: 5px 25px;
+    }
+    .about a img {
+        margin-right: 3%;
+        display: block;
+        width: fit-content;
+    }
+    .links {
+        margin: 0;
+    }
+    .footer-bot {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    #main {
+        width: 100%;
+        margin-top: 0;
+    }
+    .masthead,
+    .main_masthead {
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+    .main_masthead>ul>li {
+        width: 100%;
+        display: block;
+        text-align: center;
+    }
+    .search {
+        margin: 0;
+        width: 97%;
+    }
+    .search input {
+        width: 97%;
+        padding-left: 0;
+    }
+    #header-nav ul>li {
+        margin-top: 15px;
+        margin-left: 7.1px;
+    }
+    .footer-nav {
+        width: 100%;
+    }
+    .main-footer {
+        width: 100%;
+    }
+    .about,
+    .links,
+    .wv {
+        width: 100%;
+        height: auto;
+    }
+    .about {
+        padding: 5px 25px;
+    }
+    .links {
+        margin: 0;
+    }
+    .news li {
+        margin-bottom: 5%;
+    }
+    .footer-bot {
+        width: 100%;
+    }
+}
+
+@media (max-width: 480px) {
+    .search {
+        width: 90%
+    }
+    .search input {
+        width: 90%;
+    }
+    #pgwrap .sidebar {
+        padding: 0;
+    }
+}

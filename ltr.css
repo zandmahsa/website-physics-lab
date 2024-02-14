@@ -1,0 +1,38 @@
+@charset "utf-8";
+/*
+Theme Name: zand_physics
+Theme URI: https://qom.ac.ir
+Author: qom_university
+Author URI: https://qom.ac.ir
+Description: قالب دانشگاهی برای مصارف آموزشی
+Requires at least: 4.9.6
+Requires PHP: 5.2.4
+Version: 1.7
+License: GNU General Public License v2 or later
+
+
+
+*/
+
+@font-face {
+    font-family: qomuni;
+    src: url('fonts/BYekan.woff') format('woff');
+}
+
+@font-face {
+    font-family: qomuni_s;
+    src: url('fonts/YekanWeb-Regular.woff') format('woff');
+}
+
+
+/* 
+html5doctor.com Reset Stylesheet
+v1.6.1
+Last Updated: 2010-09-17
+Author: Richard Clark - http://richclarkdesign.com 
+Twitter: @rich_clark
+*/
+html{
+direction:ltr;
+}
+

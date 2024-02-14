@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: zand_physics\n"
+"POT-Creation-Date: 2020-10-26 16:04+0330\n"
+"PO-Revision-Date: 2020-11-08 23:44+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_CA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:6
+msgid "صفحه پیدا نشد"
+msgstr "Page not found"
+
+#: footer.php:7
+msgid "آدرس: قم - بلوار الغدیر- بعد از شهرک قدس - دانشگاه قم"
+msgstr "Address:Qom-Alghadir boulevard-after Qods town-Qom University"
+
+#: footer.php:8
+msgid "کد پستی: 3716146611"
+msgstr "ZIP Cod:3716146611"
+
+#: footer.php:10
+msgid "تلفن : 32103000 025"
+msgstr "TEL: 025 32103000"
+
+#: footer.php:12
+msgid "فکس : 32854499 025"
+msgstr "Fax:025 32854499"
+
+#: footer.php:13
+msgid "پست الکترونيکی: INFO@QOM.AC.IR​​​"
+msgstr "Email:INFO@QOM.AC.IR​​​"
+
+#: footer.php:21
+msgid "پیوندها​​​"
+msgstr "Footer"
+
+#: footer.php:37
+msgid "آمار بازدید"
+msgstr "Visits"
+
+#: footer.php:39
+msgid "سامانه الکترونیکی تلفن دانشگاه قم​"
+msgstr "Electronic telephone system of Qom University"
+
+#: functions.php:10
+msgid "منوی سایت"
+msgstr "site menu"
+
+#: functions.php:11
+msgid "منوی ورود"
+msgstr "login menu"
+
+#: functions.php:12
+msgid "پیوندهای سایت"
+msgstr "site footers"
+
+#: header.php:31
+msgid "جستجوی کلمه ی مورد نظر"
+msgstr "Search"
+
+#: inc/labpage.php:13 index.php:9
+msgid "خدمات آزمایشگاهی"
+msgstr "Lab Services"
+
+#: inc/news.php:6 inc/newspage.php:13
+msgid "اخبار و اطلاعیه ها"
+msgstr "News and announcements"
+
+#: inc/news.php:32 index.php:37
+msgid "مشــاهده لیست کامل"
+msgstr "See more"
+
+#: index.php:10
+msgid "منتخب تجهیزات و خدمات آزمایشگاهی"
+msgstr "Selected laboratory equipment and services"
+
+#: page.php:27 search.php:10
+msgid "چیزی پیدا نشد"
+msgstr "Nothing found"
+
+#. Theme Name of the plugin/theme
+msgid "zand_physics"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://qom.ac.ir"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "قالب دانشگاهی برای مصارف آموزشی"
+msgstr "university-theme"
+
+#. Author of the plugin/theme
+msgid "qom_university"
+msgstr ""
