@@ -2,6 +2,11 @@
 
 This project is a web design and implementation for the **Physics Laboratory** and **Numerical Calculation Laboratory** at Qom University. It was developed during my bachelor's degree at the Informatics Center of Qom University(2019). The website integrates both front-end and back-end technologies and is installed on WordPress as the content management system (CMS).
 
+![Alt Text](images/Screenshot.png)
+
+
+
+---
 ## Technologies Used
 
 ### Front-end:
