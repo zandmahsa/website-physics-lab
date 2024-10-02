@@ -34,7 +34,7 @@ To run this project locally, follow the steps below:
 1. **Clone the Project**: Clone this repository or download the files to your `wp-content/themes` directory in WordPress.
     ```bash
     cd path-to-your-wordpress/wp-content/themes
-    git clone [https://github.com/your-repository-link](https://github.com/zandmahsa/website-template-physics-lab-.git)
+    git clone (https://github.com/zandmahsa/website-template-physics-lab-.git)
     ```
 
 2. **Activate the Theme**: 
