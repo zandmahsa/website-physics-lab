@@ -18,7 +18,7 @@ This project is a web design and implementation for the **Physics Laboratory** a
 - **PHP**: Server-side scripting language used for WordPress theme and plugin development.
 
 ### CMS:
-- **WordPress**: The website is built using WordPress, an open-source CMS.
+- **WordPress**
 
 ## Installation
 
